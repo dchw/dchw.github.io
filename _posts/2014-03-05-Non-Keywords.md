@@ -28,7 +28,7 @@ It should be noted that this trick does not work with any other variable names -
 I would normally advise against this practice in general, but there are two cases where this might be considered an acceptable choice:
 
 1.  In ASP MVC, it is often useful to set a ‘class’ attribute, which means needing to use ‘class’ as a variable name. (Kudos to whoever pointed this out during the session!)
-2.  Use it to alleviate C#’s inability to switch on types. This is only listed to clear my conscience, because I have implemented code like thatbefore. Though I’m still on the fence about actually _deploying_ code that looks like this, it’s still a neat trick:
+2.  Use it to alleviate C#’s inability to switch on types. This is only listed to clear my conscience, because I have implemented code like that before. Though I’m still on the fence about actually _deploying_ code that looks like this, it’s still a neat trick:
 
 {% highlight C# %}
 void Main()

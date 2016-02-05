@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rounding Ain't So Round"
-date:   2014-02-05 00:17:06 -0700
+date:   2014-02-07 00:17:06 -0700
 categories: codecamp
 ---
 This is part 3/10 from my talk "10 Things You Didn't Know About C#", from Utah Code Camp 2014.

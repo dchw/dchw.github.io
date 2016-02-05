@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "(Non) Keywords"
+date:   2014-02-05 00:17:06 -0700
+categories: codecamp
+---
 This is part 1/10 from my talk “10 Things You Didn’t Know About C#” from Utah Code Camp 2014.
 
 C# is one of my favorite languages to program for, and .NET is one of my favorite platforms to target. Why? I find the 1-2 punch of C#/.NET to be an amazingly powerful and flexible system.

@@ -5,6 +5,7 @@ date:   2011-07-26 00:17:06 -0700
 categories: codecamp
 ---
 I just sampled my latest culinary experiment: Jello made with 100% Mt. Dew. Initially, this sounded like a great idea, since Mt. Dew has the best flavor of any soda, and its unique citrus taste seemed perfect for Jello. However, the first iteration of this recipe proved to be less than adequate in both taste and texture. Before I describe the changes I plan to make, let me share the recipe:
+
 [![image](http://2.bp.blogspot.com/-kQKNRAd_brY/Ti9vqTujPII/AAAAAAAAAeU/bU8XQz8qejQ/s320/photo.JPG)](http://2.bp.blogspot.com/-kQKNRAd_brY/Ti9vqTujPII/AAAAAAAAAeU/bU8XQz8qejQ/s1600/photo.JPG)
 
 <small>Mt. Dew Jello. Awesome Wife says it looks like solidified pee. :( <small>

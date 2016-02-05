@@ -2,7 +2,7 @@
 layout: post
 title:  "Mt. Dew Jello"
 date:   2011-07-26 00:17:06 -0700
-categories: codecamp
+categories: food
 ---
 I just sampled my latest culinary experiment: Jello made with 100% Mt. Dew. Initially, this sounded like a great idea, since Mt. Dew has the best flavor of any soda, and its unique citrus taste seemed perfect for Jello. However, the first iteration of this recipe proved to be less than adequate in both taste and texture. Before I describe the changes I plan to make, let me share the recipe:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Casting Magic"
-date:   2014-02-09 00:17:06 -0700
+date:   2011-07-31 00:17:06 -0700
 categories: food
 ---
 After the mediocre success that was [Diet Mt. Dew Jello](http://eatrunco.de/food/2011/07/26/Mt-Dew-Jello.html), I thought that I would try a beefier; more research driven approach today. I saw the many comments left on Twitter, this blog, and Facebook; you will be pleased to see that I incorporated some of those suggestions.

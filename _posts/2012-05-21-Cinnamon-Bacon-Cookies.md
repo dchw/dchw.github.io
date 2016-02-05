@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cinnamon & Bacon Cookies"
-date:   2014-02-09 00:17:06 -0700
+date:   2012-05-21 00:17:06 -0700
 categories: food
 ---
 A couple years ago, my ward had a cooking contest. In this contest, everything had to have bacon in it in some way, similar to how Iron Chef works. For this contest, I made a [Cinnamon-Bacon ice cream](http://www.davidlebovitz.com/2008/03/candied-bacon-i-1/ "It was based on this recipe.") that won 1st place! It was really quite delicious, and introduced me to the amazing flavors  that can be found in bacon-based desserts.

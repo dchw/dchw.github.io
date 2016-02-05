@@ -105,4 +105,4 @@ These enums almost look like regular classes from here! Mission accomplished.
 
 It should also be noted that the `HasFlag()` method is new in C# 4.0. In earlier versions, you still have to use to determine if it is set.
 
-[Demos &amp; Slides](https://drive.google.com/#folders/0B3kpIc8k4Sb8NGpnTXFGT3hEaE0)
+[Demos & Slides](https://drive.google.com/#folders/0B3kpIc8k4Sb8NGpnTXFGT3hEaE0)

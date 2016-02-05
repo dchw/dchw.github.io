@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Casting Magic"
+title:  "Wasting Time (Like a Boss)"
 date:   2011-08-13 00:17:06 -0700
 categories: productivity
 ---
